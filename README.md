@@ -1,7 +1,7 @@
 
 # HomeWally #
 
-This application is the first "Real world" application made by myself.
+This application is the first "Real world" application made on my own.
 
 As Web Technologies I used JavaScript, Html, Css And Bootstrap.
 
